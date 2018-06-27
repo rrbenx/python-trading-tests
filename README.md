@@ -13,7 +13,7 @@ It lasts a while, about... 80 mins.
 
 STEP 2
 
-hurst.py: Calculate the hurst index for previously downloaded data
+hurst.py: Calculate the hurst index for previously downloaded data (thanks to @paduel https://github.com/paduel/Python_para_Trading)
 
 usage:
 ```
